@@ -26,7 +26,7 @@ package main
 import (
     "log"
     
-    "github.com/yourusername/go-process-logger"
+    "github.com/cryptogral/logger"
 )
 
 func main() {
